@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="projeto DevLinks" src="https://raw.githubusercontent.com/rocketseat-education/nlw-expert-html-css-js/main/.github/logo.png" width="30%">
+  <img alt="projeto NLW" src="https://raw.githubusercontent.com/rocketseat-education/nlw-expert-html-css-js/main/.github/logo.png" width="30%">
 </p>
 
 
